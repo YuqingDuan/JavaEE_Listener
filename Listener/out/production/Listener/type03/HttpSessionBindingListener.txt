@@ -1,0 +1,2 @@
+监听bean对象与session绑定和解除绑定的动作
+这种监听器不需要在web.xml中注册, 但是要在XxxBean类中implements, 详见domain.PersonBean
